@@ -42,10 +42,6 @@ public class StackAnagram {
 			
 			anagram(s1,s2);
 		}
-    	//anagram("madam", "adamm");
-        //anagram("bahama", "bahama");
-        //anagram("long", "short");
-        //anagram("eric", "rice");
-        //anagram("ericc", "rice");
+    	
     }
 }
